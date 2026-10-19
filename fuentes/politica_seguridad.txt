@@ -1,0 +1,13 @@
+Política de seguridad de la información de Nimbus Software
+
+Esta política aplica a todas las personas que trabajan en Nimbus Software, incluidos contratistas.
+
+Contraseñas y acceso. Todas las cuentas internas deben usar autenticación de dos factores. Las contraseñas deben tener al menos 14 caracteres y no pueden reutilizarse entre servicios. Se recomienda usar el gestor de contraseñas corporativo.
+
+Dispositivos. Las laptops deben tener el disco cifrado y el bloqueo automático de pantalla configurado a 5 minutos o menos. Está prohibido guardar datos de clientes en dispositivos personales o en memorias USB.
+
+Datos de clientes. Solo el personal de soporte y de ingeniería con una razón justificada puede acceder a datos de clientes, y cada acceso queda registrado. Los datos de clientes se conservan durante la vigencia del contrato y se eliminan de forma definitiva 60 días después de que el cliente cancela su cuenta.
+
+Incidentes. Cualquier sospecha de incidente de seguridad (correo de phishing, equipo perdido, acceso extraño) debe reportarse en menos de 1 hora al canal #seguridad o al correo seguridad@nimbus.example. Si el incidente afecta datos de clientes, la empresa notifica a los clientes afectados en un plazo máximo de 72 horas.
+
+Revisiones. Esta política se revisa una vez al año. Cada persona debe completar la capacitación anual de seguridad antes del 31 de marzo.

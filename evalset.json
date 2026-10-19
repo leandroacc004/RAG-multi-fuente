@@ -1,0 +1,12 @@
+[
+  {"pregunta": "¿Cuántas peticiones por minuto permite la API en el plan Empresa?", "fuente_esperada": "manual_api.md", "palabras_clave": ["1.000"]},
+  {"pregunta": "¿Qué hago si la API me devuelve un error 429?", "fuente_esperada": "manual_api.md", "palabras_clave": ["Retry-After"]},
+  {"pregunta": "¿Cada cuánto vencen los tokens de acceso?", "fuente_esperada": "manual_api.md", "palabras_clave": ["90"]},
+  {"pregunta": "¿Cómo verifico que un webhook viene de NimbusDocs?", "fuente_esperada": "manual_api.md", "palabras_clave": ["HMAC"]},
+  {"pregunta": "¿Cuánto facturó la empresa en 2025?", "fuente_esperada": "informe_anual_2025.pdf", "palabras_clave": ["6,2"]},
+  {"pregunta": "¿Por qué cancelan los clientes?", "fuente_esperada": "informe_anual_2025.pdf", "palabras_clave": ["precio"]},
+  {"pregunta": "¿Cuáles son las prioridades del producto para 2026?", "fuente_esperada": "informe_anual_2025.pdf", "palabras_clave": ["permisos"]},
+  {"pregunta": "¿En cuánto tiempo hay que reportar un incidente de seguridad?", "fuente_esperada": "politica_seguridad.txt", "palabras_clave": ["1 hora"]},
+  {"pregunta": "¿Qué largo mínimo deben tener las contraseñas?", "fuente_esperada": "politica_seguridad.txt", "palabras_clave": ["14"]},
+  {"pregunta": "¿Cuándo se borran los datos de un cliente que se va?", "fuente_esperada": "politica_seguridad.txt", "palabras_clave": ["60"]}
+]
